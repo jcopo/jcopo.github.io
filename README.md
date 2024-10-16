@@ -13,4 +13,4 @@ As this is a nested sampling/optimisation problem, I became quite interested in 
 
 ## Links
 - [Google Scholar](https://scholar.google.com/citations?user=3eJymuUAAAAJ)
-- [Github](https://github.com/iolloj)
+- [Github](https://github.com/jcopo)
