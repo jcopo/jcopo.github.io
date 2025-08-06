@@ -31,7 +31,7 @@ My research revolves around computational methods for Bayesian inference. In par
 
 ### May 2025  
 🏫 Wrapping up PhD at Inria / Université Grenoble-Alpes  
-*"Bayesian Experimental Design meets Diffusion Models"*
+*"Inference driven Bayesian Experimental Design"*
 
 ---
 
