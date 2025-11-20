@@ -27,7 +27,7 @@ I am also interested in the practical deployment of BED and diffusion-based meth
 
 - **Jul 2025** – 🗣️ Invited talk *“Computational Methods for Bayesian Experimental Design”* at Monte Carlo Methods Conference 2025, Chicago, USA · 📄 Preprint: [Active MRI Acquisition with Diffusion Guided Bayesian Experimental Design](https://arxiv.org/pdf/2506.16237) (with G. Oudoumanessah et al.)
 
-- **Jun 2025** – 🎙️ Invited keynote *“Diffusion Based Bayesian Experimental Design”* at the Isaac Newton Institute for Mathematical Sciences, Cambridge, UK · 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=0gcJCdgJAYc) · 📢 Invited talk *“Advancing Bayesian Experimental Design for Practical Applications”* at IMS Spring Research Conference 2025, New York, USA
+- **Jun 2025** – 🎙️ Invited keynote *“Diffusion Based Bayesian Experimental Design”* at the Isaac Newton Institute for Mathematical Sciences, Cambridge, UK · 🎥 [Watch on YouTube](https://youtu.be/OyYm9yB0VzI?si=0NYqWpBtXRZqEl_X) · 📢 Invited talk *“Advancing Bayesian Experimental Design for Practical Applications”* at IMS Spring Research Conference 2025, New York, USA
 
 - **May 2025** – 🎓 PhD defended at Inria / Université Grenoble-Alpes: *“Inference driven Bayesian Experimental Design”*
 
